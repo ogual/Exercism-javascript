@@ -1,2 +1,2 @@
 # Exercism-js
-Exercism - JS track exercises
+Exercism - Javascript track exercises
